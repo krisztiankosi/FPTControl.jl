@@ -1,6 +1,6 @@
 # FPTControl
 
-[![Build Status](https://travis-ci.org/krisztiankosi/FPTControl.jl.svg?branch=master)](https://travis-ci.org/krisztiankosi/FPTControl.jl)
+[![Build Status](https://travis-ci.org/krisztiankosi/FPTControl.svg?branch=master)](https://travis-ci.org/krisztiankosi/FPTControl)
 
-#H1 Fixed Point Transformation Based Control
+Fixed Point Transformation Based Control
 
