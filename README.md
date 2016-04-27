@@ -60,4 +60,4 @@ Complete example using this toolbox can be found [here](https://github.com/krisz
 
 The model is a simple Duffing Oscillator.
 
-Manual: soon
+Manual: the first version of the manual is in the Manual folder (pdf)
