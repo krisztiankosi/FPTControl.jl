@@ -17,5 +17,6 @@ It is an Open Access Journal, IF for 2014: 0.649
 If we see a 2nd order system,
 
 ```KB(n,lambda,errors,nominal)```
+
 compute the
 $$ (\frac{d}{dt}+\Lambda)^{n+1}error_integral$$
