@@ -37,7 +37,7 @@ function G_SISO(past_input,past_response,desired,Kc,Bc,Ac)
 end
 
 # The Original Deformation function for MIMO case
-function G_MIMO(past_input,past_response,desired,Kc,Bc,Ac) # Inputs and Outputs are vectors
+function G_MIMO(past_input,past_response,desired,error_limit,Kc,Bc,Ac) # Inputs and Outputs are vectors
 #  need control parameters  K B A
 	error_norm=vecnorm(past_response - desired,2)
 	# If the norm of the error is greater then the limnit compute the deformation
